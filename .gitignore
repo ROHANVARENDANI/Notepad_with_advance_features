@@ -1,0 +1,5 @@
+##Ignoring pdf and gif files
+
+*.pdf
+*.gif
+

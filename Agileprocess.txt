@@ -1,0 +1,123 @@
+My project is winform application. Notepad## is a text and source code editor for use with Microsoft Windows. 
+It supports tabbed editing, which allows working with multiple open files in a single window.
+
+My notepad## is winform application
+
+
+                        Agile process
+
+Title:
+    Add file to menustrip
+Description: 
+    It will show drop down options
+Due-Date:
+    2020-05-18 (Completed)
+
+Title:
+    Add drop down menuoptions for file
+Description: 
+    added options to file dropdown to create a new file, Open, save, save as, save all, close, close all and exit
+Due-Date:
+    2020-05-18(Completed)
+
+Title:
+    Add edit to menustrip
+Description: 
+    It will show drop down options
+Due-Date:
+    2020-05-18 (Completed)
+
+Title:
+    Add drop down menuoptions for edit
+Description: 
+    added options to edit cut, copy, paste, undo, redo, find, replace, goto, selet all and change case for text.
+Due-Date:
+    2020-05-18 (Completed)
+
+Title:
+    Add view to menustrip
+Description: 
+    It will show drop down options
+Due-Date:
+    2020-05-19 (Completed)
+
+Title:
+    Add view to menustrip
+Description: 
+    It will show drop down options
+Due-Date:
+    2020-05-19 (Completed)
+    
+Title:
+    Add drop down menuoptions for view
+Description: 
+    added options to change fonts, fore color, back color and also for adjusting the toolbars like document Selector, tool strip
+Due-Date:
+    2020-05-20 (Completed)
+
+Title:
+    Add run to menustrip
+Description: 
+    It will show drop down options
+Due-Date:
+    2020-05-20 (Completed)
+
+
+Title:
+    Add drop down menuoptions for run 
+Description: 
+    added options for run, run in browser, preview html page, google search.
+Due-Date:
+    2020-05-23 (Completed)
+
+Title:
+    Add windows to menustrip
+Description: 
+    It will show drop down options
+Due-Date:
+    2020-05-23 (Completed)
+
+
+Title:
+    Add drop down menuoptions for window 
+Description: 
+    added options for restart the program, close the windows, current file.
+Due-Date:
+    2020-05-23 (Completed)
+
+Title:
+    Add help to menustrip
+Description: 
+    It will show drop down options
+Due-Date:
+    2020-05-24 (Completed)
+
+Title:
+    Add drop down menuoptions window for help
+Description: 
+    added options for help and about notepad. 
+Due-Date:
+    2020-05-24 (Completed)
+
+Title:
+    Add toolstrip for buttons
+Description: 
+    added some options for creating file, opening file, saving file, saving all files, cut text, copy text, undo text, find something in text and browse 
+Due-Date:
+    2020-05-25 (Completed)
+
+Title:
+    Add tabcontrol contextmenustrip
+Description: 
+    added functions to selected tabpage like Save, Close, Close All But This, Open File Folder, etc.
+Due-Date:
+    2020-05-26 (Completed)
+
+
+
+    
+
+
+
+
+
