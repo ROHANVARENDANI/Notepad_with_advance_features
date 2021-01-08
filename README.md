@@ -33,4 +33,4 @@ Close, Run etc.
 and many more..
 
 
-gif:
+![gif](https://user-images.githubusercontent.com/57804751/104000080-083f9780-519e-11eb-88bb-df1d8908dac2.gif)
