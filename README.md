@@ -9,8 +9,7 @@ Notepad was added to the Microsoft Store in August 2019
 •
 Notepad is a common text only (plain text) editor.
 
-## Project details:
-I have only tried to learn the way how it is working and modified some functionalities, but it was already pre existing project.
+
 
 
 ## Description:
